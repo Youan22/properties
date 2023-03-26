@@ -163,6 +163,13 @@ h2, h4 {
     font-family: Roboto;
 }
 
+.luxury {
+  text-align: center;
+  color: black; 
+  font-size: 18px;
+  font-family: Roboto;
+}
+
 h4 {
     text-align: center;
     color: white; 

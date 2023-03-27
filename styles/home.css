@@ -81,6 +81,9 @@ footer a:hover{
         }
 body {
     background-color: white;
+    font-family: Helvetica;
+    font-size: medium;
+  
 }
 
 h2 {

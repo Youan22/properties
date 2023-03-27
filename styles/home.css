@@ -40,7 +40,7 @@ header {
 
 .main-img{
     width: 100%;
-    height: 600px;
+    height: 750px;
 }
 .main-2-img {
     display: block;
@@ -89,6 +89,7 @@ h2 {
     text-align: center;
 }
 
+
 .Explore {
     background-color:#2176ae;
     color: white;
@@ -123,6 +124,7 @@ h2 {
 .all {
   color: black;
 }
+
 .houses-grid{
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -143,10 +145,10 @@ color: white;
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 35px;
     font-family: Roboto;
     text-align: center;
-    color: white;
+    color:white;
   }
 
   h3 {
@@ -161,6 +163,14 @@ h2, h4 {
     color: white; 
     font-size: 20px;
     font-family: Roboto;
+}
+
+h5 {  font-size: 30px;
+  font-family: Roboto;
+  text-align: center;
+  color: black;
+  margin: 0px;
+
 }
 
 .luxury {

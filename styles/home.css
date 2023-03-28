@@ -46,6 +46,7 @@ header {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    width: 850px;
 }
 
 .Title_text{
@@ -61,7 +62,7 @@ footer a:hover{
     
     }
     footer p {
-        font-size: 1.2em;
+        font-size: 1em;
     }    
     footer p a:hover {
         text-decoration: none;
@@ -82,7 +83,7 @@ footer a:hover{
 body {
     background-color: white;
     font-family: Helvetica;
-    font-size: medium;
+    font-size: 1.2em;
   
 }
 
@@ -105,11 +106,14 @@ h2 {
 
 .Description {
     text-align: center;
-    font-family: "Roboto";
+    font-family: "Montserrat";
     font-size: 1.4em;
-    padding-top: 10px;
+    padding-top: 50px;
+    padding-bottom: 50px;
     padding-left: 60px;
     padding-right: 60px;
+    width: 50%;
+    margin: 0 auto;
     
 }
 
@@ -163,16 +167,18 @@ h1 {
   }
 h2, h4 {
     text-align: center;
-    color: white; 
-    font-size: 20px;
+    color: white ; 
+    font-size: 1.4em;
     font-family: Roboto;
 }
 
 h5 {  font-size: 30px;
-  font-family: Roboto;
+  font-family: "Montserrat";
   text-align: center;
   color: black;
   margin: 0px;
+  text-align: center;
+  
 
 }
 

@@ -33,6 +33,11 @@ header {
     grid-template-columns: 150px auto;
 }
 
+/* header a {
+  width: 120px;
+  height: 45px;
+} */
+
 .logo {
     width: 150px;
     height: 125px;

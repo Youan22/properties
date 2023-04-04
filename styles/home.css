@@ -220,6 +220,7 @@ header {
     background-color:#396E94;
     display: grid;
     grid-template-columns: 150px auto;
+    height: 115px;
     
 }
 
@@ -284,7 +285,7 @@ header {
     padding: 14px 16px;
     background-color: inherit;
     font-family: inherit;
-    margin-top: 28px;
+    margin-top: 24px;
   }
   
   .navbar a:hover, .dropdown:hover .dropbtn {
